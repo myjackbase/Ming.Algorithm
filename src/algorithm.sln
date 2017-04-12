@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithm", "algorithm\algorithm.csproj", "{EB0D596C-4821-4BAD-A219-732E95193FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{44F41838-FF96-489D-BFA0-6481E25F0860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0D596C-4821-4BAD-A219-732E95193FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0D596C-4821-4BAD-A219-732E95193FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0D596C-4821-4BAD-A219-732E95193FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0D596C-4821-4BAD-A219-732E95193FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F41838-FF96-489D-BFA0-6481E25F0860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F41838-FF96-489D-BFA0-6481E25F0860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F41838-FF96-489D-BFA0-6481E25F0860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F41838-FF96-489D-BFA0-6481E25F0860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
